@@ -17,6 +17,6 @@ To run after installing pip3 in Linux
 
 Produces the following output
 ```
-Ciphertet (in hex)  b'066fbf34ffba07d754243c70421e04cfac0171342204c00f13026ed6b48894c9'
+Ciphertext (in hex)  b'066fbf34ffba07d754243c70421e04cfac0171342204c00f13026ed6b48894c9'
 Plaintext message:  b'Secret Message goes here'
 ```
