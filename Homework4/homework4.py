@@ -27,7 +27,7 @@ cipher1 = AES.new(key,AES.MODE_CBC, iv)
 # Encrypt the message with padding
 ct = cipher1.encrypt(pad(data,16))
 # Print the ciphertext in hexadecimal format
-print("Ciphertet (in hex) ", hexlify(ct))
+print("Ciphertext (in hex) ", hexlify(ct))
 
 # Create another AES object this time called cipher2
 cipher2 = AES.new(key,AES.MODE_CBC, iv)
