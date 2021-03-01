@@ -12,7 +12,7 @@ iv = get_random_bytes(16)
 
 # load a defined random key and IV
 key = unhexlify('deadbeefdeadbeefdeadbeefdeadbeef')
-vi = unhexlify('0123456789abcdeffedcba9876543210')
+iv = unhexlify('0123456789abcdeffedcba9876543210')
 
 
 # Available Modes are:
