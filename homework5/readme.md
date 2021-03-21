@@ -16,3 +16,7 @@ You will use the code [here](./homework5/generate_keys.py)
 ### Question 10
 
 You will use the code [here](./homework5/rsa_decrypt.py). You will need to add the hex string of ciphertext from the homework assignment.
+
+### Credits
+
+Source code dervived from that found at https://cryptobook.nakov.com/asymmetric-key-ciphers/rsa-encrypt-decrypt-examples
